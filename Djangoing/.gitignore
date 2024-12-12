@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build and dist folders
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
